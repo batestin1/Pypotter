@@ -1,0 +1,9 @@
+README.md
+setup.cfg
+setup.py
+pyPotter/__init__.py
+pyPotter/pyPotter.py
+pyPotter.egg-info/PKG-INFO
+pyPotter.egg-info/SOURCES.txt
+pyPotter.egg-info/dependency_links.txt
+pyPotter.egg-info/top_level.txt
